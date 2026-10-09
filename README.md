@@ -1,2 +1,0 @@
-# Poppy-s
-Menu/Checkout
